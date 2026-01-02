@@ -14,7 +14,9 @@ The purpose of this project was to understand engagement patterns, identify key 
 
 ## 📸 Dashboard Preview
 
-[![View Power BI Report](preview.png)](https://app.powerbi.com/view?r=eyJrIjoiZTNmOGJlZDctZmVjMS00ZDdlLThmMzgtMmYwMDI5MWVmMWM4IiwidCI6IjJiNjYwYWRiLTllNTEtNDRmMi1iOTJmLThkY2YxMWRmYWQxZiJ9)
+You can explore the interactive Power BI dashboard using the link below.  
+Click the `View Power BI Report` to open the live report:
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTNmOGJlZDctZmVjMS00ZDdlLThmMzgtMmYwMDI5MWVmMWM4IiwidCI6IjJiNjYwYWRiLTllNTEtNDRmMi1iOTJmLThkY2YxMWRmYWQxZiJ9)
 
 ---
 
